@@ -2,18 +2,21 @@
 #
 
 # Site settings
-title: Katherine Nelson
-description: |
+title: 
+description: 
   
 owner: Katherine Nelson
 first_published: 2017 # if migrating another site, the year of your first publish
 email: katherine.s.nelson@vanderbilt.edu
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/kate" # the subpath of your site, e.g. /blog
 url: "https://katesnelson.github.io/" # the base hostname & protocol for your site
 social:
+  twitter: https://twitter.com/<username>
   github: https://github.com/katesnelson
-  linkedin-square: https://linkedin.com/in/kate-nelson-70ba8346
-  #email: 
+  linkedin-square: https://linkedin.com/in/<username>
+  facebook-official: https://facebook.com/<username>
+  google-plus-square: https://plus.google.com/u/0/+<username>
+  #email: /contact/
   #flickr:
   #instagram:
   #youtube-square:
