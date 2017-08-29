@@ -1,0 +1,16 @@
+# Customize most of the website by directly editing the text in the html files.
+	-home
+	-bio
+	-research
+	-teaching
+#Just commit your changes to the master to view your updated webpage.
+
+
+#Upload your documents (CV and pictures to the repository)
+#make sure references to pictures and documents calls the name of teh document you uploaded
+
+#To change the title of the site and email references edit the config.yml file
+
+#Note that changes to the landing page main image, banner on subpages, menu, and CV button are made in the 
+main.css file and must be updated locally using jekyll runn commands
+
