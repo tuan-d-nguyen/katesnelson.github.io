@@ -1,3 +1,5 @@
+This is a custom GitHub-pages personal website built using the Jekyll template "Spectral" made available by @arkadianriver. Original Spectral README and credit is provided below.
+
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 A Jekyll port of the Spectral theme by HTML5 UP.
 Find the original non-jekyll theme at: http://html5up.net/
