@@ -1,0 +1,56 @@
+# Check out help documentation at 
+# https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/#step-3-optional-generate-jekyll-# site-files
+
+##Start by forking a repository with a jekyll Github-Page template to your computer
+
+##To create and locally monitor your Github-page open GitShell and set the directory as your website folder
+
+cd C:/Users/tuan/Documents/GitHub/spectral 
+
+#install jekyll 
+
+bundle install
+
+#run jekyll so that you can view the website on a local server
+
+bundle exec jekyll serve
+
+#go to remote host 
+
+http://127.0.0.1:4000/
+
+#make changes to the files in the local repo using a text editor or add/delete files and view changes on the local host
+#note that if making changes to the style (.scss) or configuration (config.yml) files you will need to rebuild the site using 
+#bundle exec jekyll serve command to see changes 
+
+##To take the website live
+
+#check that the remote repo is connected to your local repository for the GitHub-pages site
+
+git remote -v
+
+#if no remote repository set or wrong one change using
+
+git remote add origin https://github.com/katesnelson/katesnelson.github.io.git
+
+#add your changes to the repo
+
+git add .
+
+#commit changes
+
+git commit -m "comment"
+
+#push the changes to the remote GitHub PAges repository
+
+git push -u origin master
+
+##To keep webpage up-to-date with GitHub server changes
+
+#open GitShell and run
+
+bundle update
+
+
+
+
