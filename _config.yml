@@ -2,17 +2,17 @@
 #
 
 # Site settings
-title: Katherine Nelson
+title: Tuan Nguyen
 description: |
   
-owner: Katherine Nelson
+owner: Tuan Nguyen
 first_published: 2017 # if migrating another site, the year of your first publish
-email: katherine.s.nelson@vanderbilt.edu
+email: tuan.d.nguyen@vanderbilt.edu
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://katesnelson.github.io/" # the base hostname & protocol for your site
+url: "https://tuan-d-nguyen.github.io/" # the base hostname & protocol for your site
 social:
-  github: https://github.com/katesnelson
-  linkedin-square: https://linkedin.com/in/kate-nelson-70ba8346
+  github: https://github.com/tuan-d-nguyen
+  #linkedin-square: https://linkedin.com/in/kate-nelson-70ba8346
   #email: 
   #flickr:
   #instagram:
